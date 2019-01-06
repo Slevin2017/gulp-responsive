@@ -32,7 +32,7 @@
     "gulp-responsive-images"
   ],
   "dependencies": {
-    "chalk": "^2.4.1",
+    "chalk": "^2.4.2",
     "fancy-log": "^1.3.2",
     "lodash": "^4.17.11",
     "minimatch": "^3.0.4",
